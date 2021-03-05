@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yanru Xiao"
 title_separator          : "-"
 name                     : &name "About me - Yanru Xiao"
-description              : &description "a Ph.D. Student in Computer Science at ODU"
+description              : &description "Ph.D. Student in Computer Science at ODU"
 url                      : https://sugarruy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sugarruy/sugarruy.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yanru Xiao"
   avatar           : "profile.png"
-  bio              : "a Ph.D. Student in Computer Science at ODU"
+  bio              : "Ph.D. Student in Computer Science"
   location         : "Norfolk, VA"
   employer         : "Old Dominion University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=GOKoOowAAAAJ&hl=en"
-  email            : 
+  email            : "mailto:yxiao002@odu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
