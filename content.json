@@ -1,0 +1,167 @@
+{
+  "name": "Yanru Xiao",
+  "position": "Applied Scientist",
+  "affiliation": "Amazon Web Services",
+  "email": "yxiao002@odu.edu",
+  "scholar": "https://scholar.google.com/citations?user=GOKoOowAAAAJ&hl=en",
+  "github": "https://github.com/SugarRuy",
+  "advisor_url": "https://cwang-zju.github.io/",
+  "description": "Yanru Xiao, Applied Scientist at Amazon Web Services. Research on trustworthy and efficient machine learning.",
+  "headline": "About me",
+  "bio": [
+    "I am currently an Applied Scientist at Amazon Web Services. My research aims to advance trustworthy and efficient machine learning.",
+    "I have developed methods to protect privacy and make learning more efficient. I also study how models fail under attack. My current research focuses on language models and AI agents.",
+    "I received my Ph.D. in Computer Science from Old Dominion University in 2022, advised by Cong Wang."
+  ],
+  "publications_heading": "Selected publications",
+  "publication_groups": [
+    {
+      "title": "Trustworthy machine learning",
+      "papers": [
+        {
+          "title": "Human Perception of AI Capabilities at Classifying Perturbed Roadway Signs",
+          "authors": [
+            "Katherine R. Garcia",
+            "Jing Chen",
+            "Yanru Xiao",
+            "Scott Mishler",
+            "Cong Wang",
+            "Bin Hu"
+          ],
+          "venue": "IEEE Transactions on Human-Machine Systems",
+          "badge": "THMS",
+          "year": 2025,
+          "pdf": "https://repository.rice.edu/server/api/core/bitstreams/96c6d137-5fb6-4d1c-a381-e7bfdba2b974/content"
+        },
+        {
+          "title": "Unsupervised Multi-Criteria Adversarial Detection in Deep Image Retrieval",
+          "authors": [
+            "Yanru Xiao",
+            "Cong Wang",
+            "Xing Gao"
+          ],
+          "venue": "International Conference on Security and Privacy in Communication Networks",
+          "badge": "SecureComm",
+          "year": 2023,
+          "paper": "https://arxiv.org/abs/2304.04228",
+          "pdf": "https://arxiv.org/pdf/2304.04228"
+        },
+        {
+          "title": "You See What I Want You to See: Exploring Targeted Black-Box Transferability Attack for Hash-Based Image Retrieval Systems",
+          "authors": [
+            "Yanru Xiao",
+            "Cong Wang"
+          ],
+          "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+          "badge": "CVPR",
+          "year": 2021,
+          "paper": "https://openaccess.thecvf.com/content/CVPR2021/html/Xiao_You_See_What_I_Want_You_To_See_Exploring_Targeted_CVPR_2021_paper.html",
+          "pdf": "https://openaccess.thecvf.com/content/CVPR2021/papers/Xiao_You_See_What_I_Want_You_To_See_Exploring_Targeted_CVPR_2021_paper.pdf",
+          "code": "https://github.com/SugarRuy/CVPR21_Transferred_Hash"
+        },
+        {
+          "title": "Evade Deep Image Retrieval by Stashing Private Images in the Hash Space",
+          "authors": [
+            "Yanru Xiao",
+            "Cong Wang",
+            "Xing Gao"
+          ],
+          "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+          "badge": "CVPR",
+          "year": 2020,
+          "paper": "https://openaccess.thecvf.com/content_CVPR_2020/html/Xiao_Evade_Deep_Image_Retrieval_by_Stashing_Private_Images_in_the_CVPR_2020_paper.html",
+          "pdf": "https://openaccess.thecvf.com/content_CVPR_2020/papers/Xiao_Evade_Deep_Image_Retrieval_by_Stashing_Private_Images_in_the_CVPR_2020_paper.pdf",
+          "code": "https://github.com/SugarRuy/HashStash"
+        }
+      ]
+    },
+    {
+      "title": "Efficient and on-device learning",
+      "papers": [
+        {
+          "title": "Vision-TTT: Efficient and Expressive Visual Representation Learning with Test-Time Training",
+          "authors": [
+            "Quan Kong",
+            "Yanru Xiao",
+            "Yuhao Shen",
+            "Cong Wang"
+          ],
+          "venue": "European Conference on Computer Vision",
+          "badge": "ECCV",
+          "year": 2026,
+          "paper": "https://arxiv.org/abs/2603.00518",
+          "pdf": "https://arxiv.org/pdf/2603.00518"
+        },
+        {
+          "title": "A Framework for Behavioral Biometric Authentication Using Deep Metric Learning on Mobile Devices",
+          "authors": [
+            "Cong Wang",
+            "Yanru Xiao",
+            "Xing Gao",
+            "Li Li",
+            "Jun Wang"
+          ],
+          "venue": "IEEE Transactions on Mobile Computing",
+          "badge": "TMC",
+          "year": 2023,
+          "paper": "https://arxiv.org/abs/2005.12901",
+          "pdf": "https://arxiv.org/pdf/2005.12901"
+        },
+        {
+          "title": "Close the Gap Between Deep Learning and Mobile Intelligence by Incorporating Training in the Loop",
+          "authors": [
+            "Cong Wang",
+            "Yanru Xiao",
+            "Xing Gao",
+            "Li Li",
+            "Jun Wang"
+          ],
+          "venue": "ACM International Conference on Multimedia",
+          "badge": "ACM MM",
+          "year": 2019,
+          "paper": "https://dl.acm.org/doi/10.1145/3343031.3350904"
+        }
+      ]
+    }
+  ],
+  "services": {
+    "conferences": [
+      "CVPR",
+      "ICCV",
+      "ECCV",
+      "BMVC",
+      "ACCV",
+      "INFOCOM",
+      "ICDCS",
+      "ICPADS",
+      "MASS"
+    ],
+    "journals": [
+      "TIFS",
+      "TNNLS",
+      "TCSVT",
+      "TVCJ",
+      "Journal of Electronic Imaging",
+      "IEEE Access"
+    ]
+  },
+  "education": [
+    {
+      "degree": "Ph.D. in Computer Science",
+      "school": "Old Dominion University",
+      "year": 2022,
+      "advisor": "Cong Wang",
+      "advisor_url": "https://cwang-zju.github.io/"
+    },
+    {
+      "degree": "B.E. in Computer Science",
+      "school": "Central South University",
+      "year": 2017
+    }
+  ],
+  "featured_titles": [
+    "Vision-TTT: Efficient and Expressive Visual Representation Learning with Test-Time Training",
+    "You See What I Want You to See: Exploring Targeted Black-Box Transferability Attack for Hash-Based Image Retrieval Systems",
+    "Evade Deep Image Retrieval by Stashing Private Images in the Hash Space"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "template": "AcademicPages",
+  "repository": "https://github.com/academicpages/academicpages.github.io",
+  "commit": "9e19e6318817bd3a6060a76d5af98124d394f3a0",
+  "license": "MIT",
+  "source_entry": "assets/css/main.scss",
+  "source_directory": "_sass",
+  "theme": "default",
+  "compiler": "Dart Sass 1.80.7",
+  "style_reference": "https://cwang-zju.github.io/",
+  "scope": "Static HTML using the actual AcademicPages theme stylesheet; not a Jekyll build. Reference-site content and custom styles were not copied."
+}
