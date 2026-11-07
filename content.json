@@ -9,9 +9,9 @@
   "description": "Yanru Xiao, Applied Scientist at Amazon Web Services. Research on trustworthy and efficient machine learning.",
   "headline": "About me",
   "bio": [
-    "I am currently an Applied Scientist at Amazon Web Services. My research aims to advance trustworthy and efficient machine learning.",
-    "I develop methods to protect privacy and make learning more efficient. I also study how models fail under attack. My current research focuses on language models and AI agents.",
-    "I received my Ph.D. in Computer Science from Old Dominion University in 2022, advised by Cong Wang."
+    "I am currently an Applied Scientist at Amazon Web Services, where I work with customers to build AI agents that carry out real business tasks and bring them into production.",
+    "My research aims to advance trustworthy and efficient machine learning. I develop methods to protect privacy and make learning more efficient. I also study how models fail under attack. My current research focuses on language models and AI agents.",
+    "I received my Ph.D. in Computer Science from Old Dominion University in 2022, advised by Cong Wang, and my B.E. in Computer Science from Central South University in 2017."
   ],
   "publications_heading": "Selected publications",
   "publication_groups": [
